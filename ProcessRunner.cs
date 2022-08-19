@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MSolSvc
+namespace dkxce
 {
     public class ProcessRunner
     {
